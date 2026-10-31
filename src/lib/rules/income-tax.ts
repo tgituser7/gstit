@@ -176,7 +176,7 @@ const fy2026_27: IncomeTaxRules = {
   ...fy2025_26,
   fy: "2026-27",
   ay: "Tax year 2026-27",
-  label: "FY 2026-27 (Tax year 2026-27) — for advance tax planning",
+  label: "FY 2026-27 (Tax year 2026-27) — for advance tax",
   act: "Income Tax Act, 2025 (in force from 1 April 2026)",
   defaultDueDate: "2027-07-31",
   notes: [
